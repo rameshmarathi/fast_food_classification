@@ -1,4 +1,8 @@
-# 🎈 Blank app template
+streamlit
+tensorflow==2.13.0
+numpy
+Pillow
+
 
 A simple Streamlit app template for you to modify!
 
